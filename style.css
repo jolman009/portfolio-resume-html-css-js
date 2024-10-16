@@ -220,7 +220,7 @@ h1 {
 	}
 	.hero-yellow {
 		flex:1;
-		background-color: var(--yellow);
+		background-color: var(--yellow-100);
 		border-radius:30px;
 		padding:0px 30px;
 		display:flex;
@@ -228,8 +228,8 @@ h1 {
 		align-items:flex-end;
 		img {
 			margin-top:-60px;
-			max-width:420px;
-			margin-bottom:-10px;
+			max-width:450px;
+			margin-bottom:10px;
 		}
 	}
 }
